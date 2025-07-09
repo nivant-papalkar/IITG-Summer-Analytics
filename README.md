@@ -1,4 +1,4 @@
-Capstone Project Report
+Capstone Project Overview
 
 Objective:
 To analyze product demand using features given and build a dynamic pricing model that adjusts prices based on demand and competitor pricing.
