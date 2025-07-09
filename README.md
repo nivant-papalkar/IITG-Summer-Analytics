@@ -1,5 +1,8 @@
 Capstone Project Overview
 
+This is the link to google colab file : https://colab.research.google.com/drive/1QV-ng42uvxvTEQ0DvdQTlDdLw7PQ-S36?usp=sharing
+
+Note : I was having some version issues between google colab and jupyter notebook and that's why, I have uploaded colab notebook in python format here to github repo. Sorry for inconveniences.
 Objective:
 To analyze product demand using features given and build a dynamic pricing model that adjusts prices based on demand and competitor pricing.
 
